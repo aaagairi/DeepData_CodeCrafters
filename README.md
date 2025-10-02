@@ -42,8 +42,8 @@ Source: Company-level dataset (financial + ESG metrics + sustainability usage). 
 * ✅ Performed data cleaning, feature engineering (**Profit**, **Emissions per Revenue**).
 * ✅ Conducted 11 key EDA questions covering multivariate and time-series analysis.
 * ✅ Built stream-structured, stakeholder-friendly plots (line charts, bar charts, scatter plots, heatmaps).
-* ✅ Extracted 7 key insights with real-world sustainability implications.
-* ✅ Proposed 3 policy recommendations for companies & regions.
+* ✅ Extracted key insights with real-world sustainability implications.
+* ✅ Proposed 5 policy recommendations for companies & regions.
 
 ---
 
